@@ -1,0 +1,4 @@
+To run server file -
+    python3 server.py
+To run client file -
+    python3 client.py
